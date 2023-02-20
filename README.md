@@ -7,24 +7,23 @@
   
 </div>
 
-<br>
-
-
-<div align="center">
-<h1><strong>⏩ Follow me:</strong></h1>
-<a href="https://www.linkedin.com/in/javcho23/">
-  <img align="center" style="margin-right:5px" alt="Jefer's Instagram" width="27px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
-</a>
-
-<a href="https://twitter.com/javcho23">
-  <img align="center" alt="Jefer | Spotify" width="27px" src="https://cdn-icons-png.flaticon.com/512/3669/3669986.png" />
-</a>
-
-</div>
 
 <br />
 <br/>
 
+<div align="center">
+  <h1><strong>📈 Some of my stats are:</strong></h1>
+<p align="center">
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=jefersc&theme=dark&show_icons=true&hide=contribs" />
+</p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersc&layout=compact&theme=buefy&hide_border=true" />
+</p>
+<p align="center">
+  <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=jefersc.jefersc" />
+</p>
+<br>
+    
 <div align="center">
   <h1><strong>🛠️ Languages and Tools:</strong></h1>
 
@@ -38,18 +37,15 @@
 ![MySql](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
   </div>
-  <br>
+ <br>
 
 <div align="center">
-  <h1><strong>📈 Some of my stats are:</strong></h1>
-<p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api?username=jefersc&theme=dark&show_icons=true&hide=contribs" />
-</p>
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersc&layout=compact&theme=buefy&hide_border=true" />
-</p>
-<p align="center">
-  <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=jefersc.jefersc" />
-</p>
+<h1><strong>⏩ Follow me:</strong></h1>
+<a href="https://www.linkedin.com/in/javcho23/">
+  <img align="center" style="margin-right:5px" alt="Jefer's Instagram" width="27px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
+</a>
 
-<br>
+<a href="https://twitter.com/javcho23">
+  <img align="center" alt="Jefer | Spotify" width="27px" src="https://cdn-icons-png.flaticon.com/512/3669/3669986.png" />
+</a>
+</div>
