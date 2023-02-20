@@ -12,11 +12,11 @@
 <div align="center">
 <h1><strong>⏩ Follow me:</strong></h1>
 <a href="https://www.linkedin.com/in/javcho23/">
-  <img align="left" style="margin-right:5px" alt="Jefer's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
+  <img align="center" style="margin-right:5px" alt="Jefer's Instagram" width="27px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a>
 
 <a href="https://twitter.com/javcho23">
-  <img align="left" alt="Jefer | Spotify" width="22px" src="https://cdn-icons-png.flaticon.com/512/3669/3669986.png" />
+  <img align="center" alt="Jefer | Spotify" width="27px" src="https://cdn-icons-png.flaticon.com/512/3669/3669986.png" />
 </a>
 
 </div>
