@@ -43,8 +43,13 @@
 <div align="center">
   <h1><strong>📈 Some of my stats are:</strong></h1>
 <p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api?username=jefersc&theme=buefy&show_icons=true&hide=contribs" />
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=jefersc&theme=dark&show_icons=true&hide=contribs" />
+</p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersc&layout=compact&theme=buefy&hide_border=true" />
 </p>
 <p align="center">
   <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=jefersc.jefersc" />
 </p>
+
+<br>
