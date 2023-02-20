@@ -1,4 +1,5 @@
 <div align="center">
+    <img align="center" width="200" src="https://user-images.githubusercontent.com/125378976/220205494-c65feae7-378a-4263-a38c-f4449ca84066.png" />
     <h1>¡hi! ,soy <a href="https://github.com/jefersc">jefer</a> 👨🏻‍💻</h1> 
     <h6>-------------------- 💻 Estudiante de diseño web 💻 --------------------</h6>  
   
@@ -36,3 +37,4 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
   </div>
+
