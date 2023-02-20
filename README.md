@@ -28,13 +28,23 @@
 <div align="center">
   <h1><strong>🛠️ Languages and Tools:</strong></h1>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Android Studio](https://img.shields.io/badge/AndroiStudio-black?style=flat-square&logo=android-studio&logoColor=light-green)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![MySql](https://img.shields.io/badge/-MySql-black?style=flat-square&logo=mysql)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![GitHub](https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySql](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
   </div>
+  <br>
 
+<div align="center">
+  <h1><strong>📈 Some of my stats are:</strong></h1>
+<p align="center">
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=jefersc&theme=buefy&show_icons=true&hide=contribs" />
+</p>
+<p align="center">
+  <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=jefersc.jefersc" />
+</p>
