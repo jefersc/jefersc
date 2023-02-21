@@ -7,26 +7,22 @@
   ![@jefer_s_c](https://user-images.githubusercontent.com/125378976/219987431-d076562f-40cb-4835-b8e0-c5393c384cbe.gif)
   
 </div>
-<br />
-<br/>
+<br>
+<!--MIs estadisticas-->
+<h1 align="center"><strong>📈 Some of my stats are:</strong></h1>
+<br>
 
-<!--Estadisticas-->
-<div align="center">
-  <h1><strong>📈 Some of my stats are:</strong></h1>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jefersc&theme=dark&show_icons=true&hide=contribs" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jefersc&theme=nightowl&hide_border=true" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersc&layout=compact" />
-</p>
-<p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jefersc.jefersc" />
-</p>
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jefersc&theme=nightowl&show_icons=true&hide=contribs" alt="Anurag's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jefersc&theme=nightowl&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersc&layout=compact" />
+</p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jefersc.jefersc" />
+</p>
+   
 
 <!--Lenguajes y herramientas-->
 <div align="center">
