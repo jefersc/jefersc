@@ -3,7 +3,7 @@
     <img align="center" width="200" src="https://user-images.githubusercontent.com/125378976/220205494-c65feae7-378a-4263-a38c-f4449ca84066.png" />
     <h1>¡hi! ,I'm <a href="https://github.com/jefersc">jefer</a> 👨🏻‍💻</h1> 
     <h6>--------------- 💻 web design and development student 💻 ---------------</h6>  
-  <!--Dino Chrome-->
+
   ![@jefer_s_c](https://user-images.githubusercontent.com/125378976/219987431-d076562f-40cb-4835-b8e0-c5393c384cbe.gif)
   
 </div>
