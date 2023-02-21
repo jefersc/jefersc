@@ -12,7 +12,7 @@
 <h1 align="center"><strong>📈 Some of my stats are:</strong></h1>
 <br>
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jefersc&theme=nightowl&show_icons=true&hide=contribs" alt="Anurag's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jefersc&theme=nightowl&hide_border=true" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jefersc&theme=nightowl&show_icons=true&hide=contribs" alt="Jefer's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jefersc&theme=nightowl&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br>
