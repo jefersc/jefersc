@@ -8,7 +8,7 @@
   
 </div>
 <br>
-<!--MIs estadisticas-->
+<!--Mis estadisticas-->
 <h1 align="center"><strong>📈 Some of my stats are:</strong></h1>
 <br>
 
@@ -16,9 +16,9 @@
 | ------------- | ------------- |
 
 <br>
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersc&layout=compact" />
-</p>
+</p>-->
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jefersc.jefersc" />
 </p>
